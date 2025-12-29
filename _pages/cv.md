@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Download CV
-[Download full CV as PDF]({{ site.baseurl }}/files/cv.pdf)
+## Download CV (Industry)
+[Download full CV as PDF]({{ site.baseurl }}/files/Boahen_CV_Internship.pdf)
 
+ 
 <!-- Or embed the PDF (full-page view) -->
 <iframe src="{{ site.baseurl }}/files/cv.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
