@@ -21,7 +21,7 @@ Prior to my current position, I obtained a MSc. in Mathematical Sciences with di
 
 - **[Jun 2025]** Honored to receive the [JMP-P&G Student-Early Career Travel Award](https://drive.google.com/file/d/1-hwLS7vzGDKRcDDmpnXWKoKloAvuK-UJ/view) to present at SRC 2025.
 
-- **[Jun 2025]** I will be presenting our ongoing work *"Active Learning for Nonlinear Calibration"* in the session "Variable Selection and Active Learning" at the [Spring Research Conference 2025](https://sites.google.com/view/src-2025/speakers?authuser=0).
+- **[Jun 2025]** I will be presenting our ongoing work *"Active Learning for Nonlinear Calibration"* in the session "Variable Selection and Active Learning" at the [Spring Research Conference (SRC) 2025](https://sites.google.com/view/src-2025/speakers?authuser=0).
 
 - **[May 2025]** The paper *"Large deviations for spatial telecommunication systems: The Boolean model"* published in the [Journal of Information and Optimization Sciences](https://www.tarupublications.com/doi/10.47974/JIOS-1338).
 
