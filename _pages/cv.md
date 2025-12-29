@@ -10,14 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Download CV (Industry)
-[Download full CV as PDF]({{ site.baseurl }}/files/Boahenan_CV_Internship.pdf)
+**[Download Full CV (PDF)]({{ site.baseurl }}/files/Boahenan_CV.pdf)**  
+*(Updated December 2025 — tailored for internships/industry roles)*
 
- 
-<!-- Or embed the PDF (full-page view) -->
-<iframe src="{{ site.baseurl }}/files/Boahenan_CV_Internship.pdf" width="100%" height="800px" style="border: none;"></iframe>
-
-<!-- Or use embed tag for better compatibility -->
-<embed src="{{ site.baseurl }}/files/Boahenan_CV_Internship.pdf" type="application/pdf" width="100%" height="800px" />
 
 Education
 ======
