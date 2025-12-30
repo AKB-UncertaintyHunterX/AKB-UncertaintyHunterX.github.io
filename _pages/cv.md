@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-## Download CV
 **[Download Full CV (PDF)]({{ site.baseurl }}/files/Boahenan_CV_Internship.pdf)**  
 *(Updated December 2025)*
 
