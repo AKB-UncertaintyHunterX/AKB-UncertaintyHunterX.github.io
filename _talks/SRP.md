@@ -4,6 +4,6 @@ collection: talks
 type: "Lightning Talk"
 permalink: /talks/SRP
 venue: "Sustainable Research Pathways"
-date: 2025-07
+date: 2025-07-31
 location: "Virtual"
 ---
