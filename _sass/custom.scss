@@ -34,3 +34,18 @@ ul.breadcrumbs {
 
 /* Optional: even tighter */
 /* .news li { margin-bottom: 0.2rem; } */
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.publication-number {
+  font-weight: bold;
+  margin-right: 0.75em;
+  min-width: 2em;
+  text-align: right;
+}
+
+.publication-content {
+  flex: 1;
+}
