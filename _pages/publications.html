@@ -30,21 +30,25 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
 
-      <div class="publication-number">
-        <strong>{{ pub_counter }}.</strong>
+      <div class="publication-item">
+        <span class="publication-number">{{ pub_counter }}.</span>
+        <div class="publication-content">
+        {  % include archive-single.html %}
+        </div>
       </div>
 
-      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% assign pub_counter = pub_counter | plus: 1 %}
 
-    <div class="publication-number">
-      <strong>{{ pub_counter }}.</strong>
-    </div>
+      <div class="publication-item">
+        <span class="publication-number">{{ pub_counter }}.</span>
+        <div class="publication-content">
+        {  % include archive-single.html %}
+        </div>
+      </div>
 
-    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
