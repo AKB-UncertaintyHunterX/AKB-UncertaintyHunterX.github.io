@@ -42,3 +42,21 @@ ul.breadcrumbs {
 .publication-item .archive__item-title {
   margin-top: 0;
 }
+
+.publication-item {
+  display: flex;
+  align-items: flex-start;   /* aligns number with title */
+  gap: 0.3rem;               /* controls space between number and title */
+  margin-bottom: 0.6rem;
+}
+
+.publication-number {
+  flex-shrink: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.publication-content {
+  margin: 0;
+}
+
